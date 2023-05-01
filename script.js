@@ -1,4 +1,4 @@
-var typed = new typed(".multiple", {
+var Typed = new Typed(".multiple", {
     strings: ['Fullstack Web Developer', 'Youtuber',
         'Software Developer'
     ],
